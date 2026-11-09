@@ -1,0 +1,7 @@
+{
+  "_note": "Production de soirées henné. included = ce que Revital annonce elle-même dans ses publications (déc. 2025, avril 2026) ; textes dans locales/*.json → henna.included. packages = À REMPLIR : { \"id\": \"…\", \"name\": { \"he\": \"…\", \"en\": \"…\", \"fr\": \"…\", \"es\": \"…\" }, \"priceFrom\": nombre en ILS ou null, \"items\": [clés de included] }. Tant que packages est vide, le site affiche « chaque soirée est chiffrée sur mesure ». regions = zones où elle se déplace (texte par langue) ou null.",
+  "updated": "2026-11-09",
+  "included": ["talamon", "kaftans", "carpets", "hennaTable", "cookies", "market", "design", "attractions"],
+  "packages": [],
+  "regions": null
+}

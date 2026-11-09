@@ -1,0 +1,22 @@
+{
+  "_note": "Soirées henné produites par Revital, d'après ses publications Instagram (date = mois de la publication). place (lieu, texte par langue) et guests (nombre d'invités) À REMPLIR avec elle : null = non affiché. Aucun prénom de couple n'est publié sans leur accord.",
+  "updated": "2026-11-09",
+  "items": [
+    { "id": "agadot-2026-04", "date": "2026-04", "image": "/media/soirees-henne/tafura-adom-01.jpg", "video": "/media/video/danseuse-feu.mp4", "place": null, "guests": null,
+      "title": { "he": "חינה מהאגדות", "en": "A fairy-tale henna", "fr": "Un henné de conte", "es": "Una henna de cuento" } },
+    { "id": "maroko-2026-02", "date": "2026-02", "image": "/media/robes-henne/hina-adom-01.jpg", "video": null, "place": null, "guests": null,
+      "title": { "he": "חינה ישר ממרוקו", "en": "Henna straight from Morocco", "fr": "Un henné venu tout droit du Maroc", "es": "Una henna directa de Marruecos" } },
+    { "id": "lavan-zahav-2026-05", "date": "2026-05", "image": "/media/soirees-henne/tafura-shuk-04.jpg", "video": null, "place": null, "guests": null,
+      "title": { "he": "חינה בלבן וזהב", "en": "Henna in white and gold", "fr": "Un henné blanc et or", "es": "Henna en blanco y oro" } },
+    { "id": "shenhav-2025-12", "date": "2025-12", "image": "/media/soirees-henne/tafura-shuk-01.jpg", "video": "/media/video/decor-henne.mp4", "place": null, "guests": null,
+      "title": { "he": "שוק זהב ושנהב", "en": "A market in gold and ivory", "fr": "Un souk ivoire et or", "es": "Un zoco en oro y marfil" } },
+    { "id": "knisa-2024-05", "date": "2024-05", "image": "/media/soirees-henne/tafura-knisa-01.jpg", "video": null, "place": null, "guests": null,
+      "title": { "he": "כניסה בווילונות זהב", "en": "An entrance draped in gold", "fr": "Une entrée drapée d’or", "es": "Una entrada con cortinas doradas" } },
+    { "id": "kayitz-2023-06", "date": "2023-06", "image": "/media/soirees-henne/tafura-knisa-02.jpg", "video": "/media/video/entree-couple.mp4", "place": null, "guests": null,
+      "title": { "he": "חינה של ערב קיץ", "en": "A summer-evening henna", "fr": "Un henné de soir d’été", "es": "Una henna de noche de verano" } },
+    { "id": "talamon-2021-02", "date": "2021-02", "image": "/media/soirees-henne/tafura-kise-03.jpg", "video": null, "place": null, "guests": null,
+      "title": { "he": "טלמון לבן וזהב", "en": "A white and gold talamon", "fr": "Un talamon blanc et or", "es": "Un talamón blanco y dorado" } },
+    { "id": "adom-2020-06", "date": "2020-06", "image": "/media/soirees-henne/tafura-adom-02.jpg", "video": null, "place": null, "guests": null,
+      "title": { "he": "אדום מלכותי", "en": "Royal red", "fr": "Rouge royal", "es": "Rojo real" } }
+  ]
+}

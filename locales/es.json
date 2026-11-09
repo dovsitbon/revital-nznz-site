@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "title": "Vestidos de henna, vestidos de novia y de fiesta, y producción de fiestas de henna | Revital Nznz",
+    "titleCity": "Vestidos de henna, vestidos de novia y de fiesta, y fiestas de henna en {city} | Revital Nznz",
+    "description": "Revital Nznz diseña vestidos de novia y de fiesta a medida, alquila vestidos de henna y caftanes, y produce fiestas de henna marroquíes de lujo: talamón, dulces caseros y zoco de especias. Pide tu cita por WhatsApp.",
+    "pages": {
+      "bridal": {
+        "title": "Vestidos de novia a medida | Revital Nznz",
+        "description": "Vestidos de novia confeccionados según los deseos de cada novia: encaje, tul, mangas acampanadas. Cita de diseño y pruebas en el showroom de Revital Nznz."
+      },
+      "evening": {
+        "title": "Vestidos de fiesta en alquiler o venta | Revital Nznz",
+        "description": "Vestidos de fiesta de diseño para alquilar o comprar: oro, plata, encaje, capas. Cada vestido es pieza única. Pruebas en el showroom con cita previa."
+      },
+      "henna": {
+        "title": "Vestidos de henna y caftanes en alquiler | Revital Nznz",
+        "description": "Vestidos de henna, caftanes y capas para la novia, el novio y la familia. Estilo de henna lujoso de inspiración marroquí, pruebas con cita previa."
+      },
+      "production": {
+        "title": "Producción de fiestas de henna de lujo | Revital Nznz",
+        "description": "Fiesta de henna marroquí completa: talamón para los novios, caftanes, alfombras y puente de bienvenida, mesa del cuenco de henna, dulces marroquíes caseros y zoco de frutos secos."
+      },
+      "legal": {
+        "title": "Aviso legal y privacidad | Revital Nznz",
+        "description": "Datos del sitio, privacidad y derechos de las imágenes."
+      }
+    }
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "home": "Revital Nznz – inicio",
+    "language": "Idioma",
+    "book": "Pedir cita",
+    "bridal": "Novia",
+    "evening": "Fiesta",
+    "henna": "Vestidos de henna",
+    "production": "Fiestas de henna",
+    "about": "Revital",
+    "contact": "Contacto"
+  },
+  "infobar": {
+    "close": "Cerrar este aviso"
+  },
+  "intro": {
+    "skip": "Saltar"
+  },
+  "hero": {
+    "eyebrow": "Novia · Fiesta · Henna · Producción de fiestas de henna",
+    "title": "Radiante, de la henna a la jupá",
+    "lead": "Vestidos de novia y de fiesta a medida, vestidos de henna y caftanes, y una noche de henna marroquí completa, del talamón a la mesa de dulces.",
+    "ctaFitting": "Pedir cita",
+    "ctaHenna": "Organizar mi henna",
+    "proof": "{n} seguidores en Instagram",
+    "scroll": "Desplazar"
+  },
+  "cards": {
+    "eyebrow": "Lo que encontrarás aquí",
+    "title": "Cuatro mundos, una misma mano",
+    "items": {
+      "bridal": {
+        "title": "Vestidos de novia",
+        "text": "Cosidos alrededor de tu sueño, con el corazón primero.",
+        "cta": "Ver vestidos de novia"
+      },
+      "evening": {
+        "title": "Vestidos de fiesta",
+        "text": "Para alquilar o comprar, cada uno pieza única.",
+        "cta": "Ver vestidos de fiesta"
+      },
+      "henna": {
+        "title": "Vestidos de henna",
+        "text": "Caftanes, capas y vestidos para la novia y la familia.",
+        "cta": "Ver vestidos de henna"
+      },
+      "production": {
+        "title": "Fiestas de henna",
+        "text": "Una henna marroquí completa, de la decoración a los dulces.",
+        "cta": "Organizar mi henna"
+      }
+    }
+  },
+  "collection": {
+    "eyebrow": "La colección",
+    "title": "Piezas del armario de Revital",
+    "lead": "Una selección de la colección. En el showroom te esperan muchos más vestidos: verás los disponibles en tu prueba.",
+    "filtersLabel": "Filtrar por tipo de vestido",
+    "filters": {
+      "all": "Todos",
+      "mariee": "Novia",
+      "soiree": "Fiesta",
+      "henne": "Henna"
+    },
+    "modes": {
+      "custom": "A medida",
+      "rental": "En alquiler",
+      "sale": "En venta",
+      "rental-sale": "En alquiler o venta"
+    },
+    "priceFrom": "Desde {price}",
+    "priceOnRequest": "Precio en la cita",
+    "ask": "Preguntar por este vestido",
+    "askMessage": "Hola Revital, vi el vestido {ref} ({name}) en tu web y me encantaría saber más.",
+    "count": "{n} vestidos",
+    "open": "Ampliar la foto",
+    "prev": "Foto anterior",
+    "next": "Foto siguiente",
+    "more": "Ver más vestidos"
+  },
+  "henna": {
+    "eyebrow": "Producción de fiestas de henna",
+    "title": "La henna que se vive una sola vez",
+    "lead": "Revital reúne toda la magia de Marruecos en un solo lugar: una decoración real, trajes para la novia, el novio y la familia, y un ambiente que nadie olvida.",
+    "quote": "Para mí, una henna no es solo un evento: es entrar en el corazón de la gente y hacerlo todo con muchísimo amor.",
+    "includedTitle": "Qué incluye la producción",
+    "included": {
+      "talamon": "Un talamón espléndido para la novia y el novio",
+      "kaftans": "Caftanes de lujo para la novia, el novio y la familia",
+      "carpets": "Alfombra del talamón, larga alfombra de entrada y puente de bienvenida",
+      "hennaTable": "Una mesa decorada para el cuenco de henna",
+      "cookies": "Una mesa de dulces marroquíes caseros",
+      "market": "Un zoco de frutos secos y especias de estilo auténtico",
+      "design": "Decoración completa, tradicional e impactante, con trato personal",
+      "attractions": "Espectáculos para la noche, elegidos contigo"
+    },
+    "packagesTitle": "Paquetes",
+    "custom": "Cada noche de henna se presupuesta de forma personal, según el número de invitados, el lugar y lo que quieras incluir.",
+    "priceFrom": "Desde {price}",
+    "regions": "Zonas de trabajo",
+    "cta": "Consultar mi fecha",
+    "video": "Recorrido por una decoración de henna de Revital (sin sonido)"
+  },
+  "blocks": {
+    "atelier": {
+      "eyebrow": "El taller",
+      "title": "Un vestido construido a tu alrededor",
+      "text": "Vestidos de novia y de fiesta de alta costura, hechos según los deseos de cada clienta. Eligen juntas la tela, el corte y los detalles, y se prueba hasta que el vestido cae perfecto.",
+      "cta": "Ver la colección"
+    },
+    "day": {
+      "eyebrow": "El día de la henna",
+      "title": "De la entrada al último baile",
+      "text": "Un puente de bienvenida, una larga alfombra, un talamón iluminado, el cuenco de henna sobre una mesa decorada y un zoco de especias donde todos quieren su foto.",
+      "cta": "Organizar mi henna"
+    },
+    "fitting": {
+      "eyebrow": "La prueba",
+      "title": "Probarse sin prisas",
+      "text": "Las pruebas en el showroom son solo con cita previa, así que el tiempo es todo tuyo. Cuéntale a Revital sobre tu evento y te preparará los vestidos que le van.",
+      "cta": "Pedir cita"
+    }
+  },
+  "work": {
+    "eyebrow": "Producciones recientes",
+    "title": "Noches de henna de Revital",
+    "lead": "Cada noche tiene su propio concepto. Más momentos te esperan en Instagram.",
+    "guests": "{n} invitados",
+    "more": "Más producciones en Instagram",
+    "play": "Reproducir el vídeo",
+    "pause": "Pausar el vídeo"
+  },
+  "about": {
+    "eyebrow": "Sobre mí",
+    "title": "Revital Nznz",
+    "text": [
+      "Diseño vestidos de novia y de fiesta y produzco noches de henna. Lo que me mueve es el instante en que una novia se ve en el espejo, o entra en su henna y toda la familia se pone de pie.",
+      "En febrero de 2026 tuve la alegría de producir la henna de mi propia hija, directa de Marruecos. Pongo ese mismo cuidado en cada novia que entra en mi reino."
+    ],
+    "cta": "Escribir a Revital por WhatsApp"
+  },
+  "reviews": {
+    "eyebrow": "Palabras de novias",
+    "title": "Lo que escriben después de la henna",
+    "empty": "Muy pronto: las palabras de novias y familias a las que Revital acompañó.",
+    "more": "Leer comentarios en Instagram"
+  },
+  "faq": {
+    "eyebrow": "Preguntas",
+    "title": "Lo que preguntan las novias",
+    "items": [
+      {
+        "q": "¿Con cuánta antelación debo venir a probarme?",
+        "a": "Para un vestido a medida conviene empezar con algunos meses de antelación, para que haya tiempo de diseñar y hacer pruebas. Para un vestido de fiesta o de henna en alquiler, también puede ser más cerca de la fecha. Revital armará contigo un calendario según tu fecha."
+      },
+      {
+        "q": "¿Alquiler, compra o a medida?",
+        "a": "Los vestidos de fiesta se alquilan o se compran, los de novia se cosen según tus deseos y los caftanes de henna se alquilan para la novia, el novio y la familia. En la cita sabrás qué encaja con tu evento y tu presupuesto."
+      },
+      {
+        "q": "¿Incluye arreglos?",
+        "a": "Sí, el vestido se ajusta a ti en las pruebas. El alcance y los plazos de los arreglos se acuerdan en la cita."
+      },
+      {
+        "q": "¿Cuántos trajes necesito para la henna?",
+        "a": "Algunas novias llevan un solo traje y otras se cambian varias veces durante la noche; también se puede vestir al novio y a la familia. Cuéntale a Revital lo que imaginas y te propondrá una combinación."
+      },
+      {
+        "q": "¿En qué zonas produce Revital fiestas de henna?",
+        "a": "Indícanos en el formulario dónde será el evento y Revital te responderá sobre su disponibilidad para esa fecha y lugar."
+      },
+      {
+        "q": "¿Cómo reservo mi fecha? ¿Hay señal?",
+        "a": "La fecha queda reservada una vez acordados los detalles con Revital. El importe de la señal y la forma de pago se indican en la conversación."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Pide una cita o consulta una fecha",
+    "lead": "Rellena unos pocos datos y tu mensaje llega directamente al WhatsApp de Revital. También puedes dejar una nota de voz.",
+    "whatsapp": "WhatsApp",
+    "phone": "Teléfono",
+    "instagram": "Instagram",
+    "showroom": "Showroom",
+    "showroomTbd": "La dirección se envía al confirmar la cita",
+    "hours": "Horario",
+    "byAppointment": "Solo con cita previa",
+    "closed": "Cerrado",
+    "days": [
+      "Domingo",
+      "Lunes",
+      "Martes",
+      "Miércoles",
+      "Jueves",
+      "Viernes",
+      "Sábado"
+    ]
+  },
+  "booking": {
+    "tabsLabel": "Tipo de solicitud",
+    "tabs": {
+      "fitting": "Cita de prueba",
+      "henna": "Fiesta de henna"
+    },
+    "steps": {
+      "dress": "El vestido",
+      "fitting": "Cuándo te viene bien",
+      "event": "El evento",
+      "wishes": "Lo que te gustaría",
+      "contact": "Tus datos"
+    },
+    "fields": {
+      "dressType": "Tipo de vestido",
+      "dressTypes": {
+        "mariee": "Novia",
+        "soiree": "Fiesta",
+        "henne": "Henna"
+      },
+      "eventDate": "Fecha del evento",
+      "fittingDate": "Fecha preferida para la prueba",
+      "slot": "Franja preferida",
+      "slots": {
+        "morning": "Mañana",
+        "afternoon": "Mediodía",
+        "evening": "Tarde"
+      },
+      "size": "Talla aproximada",
+      "sizePlaceholder": "p. ej. 38",
+      "date": "Fecha de la henna",
+      "place": "Lugar",
+      "placePlaceholder": "Ciudad, salón o casa",
+      "guests": "Número aproximado de invitados",
+      "wishes": "Qué quieres incluir",
+      "wishesOptions": {
+        "decor": "Decoración",
+        "outfits": "Trajes para la novia y la familia",
+        "all": "Todo incluido"
+      },
+      "budget": "Presupuesto",
+      "budgetPlaceholder": "p. ej. 15.000 ₪",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "messagePlaceholder": "Colores, inspiración, todo lo que te importa",
+      "optional": "opcional",
+      "dateTaken": "Revital ya tiene un evento esa fecha. Puedes enviarlo igualmente: te responderá.",
+      "dateFree": "Esta fecha sigue libre en la agenda."
+    },
+    "calendar": {
+      "title": "Fechas ocupadas",
+      "prev": "Mes anterior",
+      "next": "Mes siguiente",
+      "taken": "Ocupada",
+      "updated": "Actualizado"
+    },
+    "submit": "Enviar por WhatsApp",
+    "note": "El mensaje se abre en WhatsApp y lo envías tú. No se guarda nada en la web.",
+    "required": "Campo obligatorio",
+    "invalidPhone": "Este número no parece válido",
+    "success": {
+      "thanks": "Gracias",
+      "title": "Tu mensaje está listo en WhatsApp",
+      "text": "Si WhatsApp no se abrió, inténtalo de nuevo con el botón de abajo. Revital responde a cada solicitud.",
+      "again": "Abrir WhatsApp de nuevo",
+      "reset": "Nueva solicitud"
+    },
+    "message": {
+      "fittingTitle": "Solicitud de cita de prueba – desde la web",
+      "hennaTitle": "Solicitud de producción de henna – desde la web",
+      "dressType": "Vestido",
+      "eventDate": "Fecha del evento",
+      "fittingDate": "Prueba preferida",
+      "slot": "Franja",
+      "size": "Talla",
+      "date": "Fecha de la henna",
+      "place": "Lugar",
+      "guests": "Invitados",
+      "wishes": "Incluir",
+      "budget": "Presupuesto",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "notes": "Mensaje",
+      "closing": "¡Gracias!"
+    }
+  },
+  "whatsapp": {
+    "hello": "Hola Revital, te escribo desde tu web y me gustaría recibir información.",
+    "float": "Escribir a Revital por WhatsApp"
+  },
+  "pages": {
+    "back": "Volver al inicio",
+    "bridal": {
+      "eyebrow": "Vestidos de novia",
+      "title": "Un vestido de novia cosido para ti",
+      "lead": "Revital diseña vestidos de novia de alta costura, según los deseos de cada novia y guiada por la emoción: encaje, tul, mangas acampanadas, un solo hombro.",
+      "body": [
+        "Todo empieza con una cita en el showroom: hablan del evento, de tu estilo y de lo que te emociona. A partir de ahí construyen juntas el vestido y se prueba hasta que cae perfecto.",
+        "Para la henna puedes completar con un traje marroquí de la colección, así todo el look de la gran semana sale de la misma mano."
+      ],
+      "cta": "Pedir cita"
+    },
+    "evening": {
+      "eyebrow": "Vestidos de fiesta",
+      "title": "Vestidos de fiesta en alquiler o venta",
+      "lead": "Oro, plata, encaje, capas y faldas con abertura. Vestidos de diseño para la madre de la novia, hermanas, amigas y cada noche especial.",
+      "body": [
+        "Cada vestido de la colección es pieza única: no lo verás en otra invitada. Puedes alquilarlo para una noche o comprarlo.",
+        "Antes de la prueba, Revital prepara algunos vestidos según el color y la talla que le indiques."
+      ],
+      "cta": "Pedir cita"
+    },
+    "henna": {
+      "eyebrow": "Vestidos de henna",
+      "title": "Vestidos de henna y caftanes",
+      "lead": "Caftanes bordados, capas doradas y vestidos rojos para la novia de la henna, además de trajes para el novio y la familia.",
+      "body": [
+        "El estilo de henna de Revital une la tradición marroquí con toques de lujo: bordados de oro, pedrería, telas ricas y una corona para la novia.",
+        "Puedes alquilar los trajes para la noche o combinarlos con una producción de henna completa."
+      ],
+      "cta": "Pedir cita"
+    },
+    "production": {
+      "eyebrow": "Fiestas de henna",
+      "title": "Producción de fiestas de henna de lujo",
+      "lead": "Una noche de henna marroquí completa, con trato personal y amor por la tradición: decoración, trajes, dulces caseros y zoco de especias.",
+      "body": [
+        "Revital construye la noche alrededor de vuestro concepto: de la entrada decorada al talamón, de la mesa del cuenco de henna a los dulces marroquíes.",
+        "Cada producción se presupuesta de forma personal. Enviad la fecha, el lugar y el número de invitados, y Revital os responderá con una propuesta."
+      ],
+      "cta": "Consultar mi fecha"
+    }
+  },
+  "footer": {
+    "tagline": "Producciones de henna y vestidos de novia",
+    "nav": "Navegación",
+    "follow": "En Instagram",
+    "legal": "Aviso legal y privacidad",
+    "rights": "Todos los derechos reservados",
+    "photos": "Todas las fotos de la web proceden del Instagram de Revital Nznz."
+  },
+  "legal": {
+    "title": "Aviso legal y privacidad",
+    "sections": [
+      {
+        "h": "La web",
+        "p": "Esta web presenta el trabajo y los servicios de Revital Nznz: diseño de vestidos de novia, de fiesta y de henna, y producción de fiestas de henna. Contacto: +972 52-250-8310."
+      },
+      {
+        "h": "Privacidad",
+        "p": "Los formularios de la web no guardan nada. Los datos que escribes van en un mensaje de WhatsApp que tú misma envías a Revital. La web no usa cookies publicitarias."
+      },
+      {
+        "h": "Imágenes",
+        "p": "Las fotos y los vídeos pertenecen a Revital Nznz y a los fotógrafos con los que trabajó. No los copies sin permiso."
+      },
+      {
+        "h": "Precios y disponibilidad",
+        "p": "Los precios, la disponibilidad y las condiciones de alquiler se indican en la cita y se confirman por escrito. Las fotos muestran trabajos anteriores y no garantizan la disponibilidad de un vestido concreto."
+      }
+    ]
+  },
+  "alt": {
+    "kalat-hina": "Novia de henna con vestido blanco de cola, ante cortinas rojas",
+    "revital": "Revital Nznz con vestido champán y capa, en una decoración de henna",
+    "kala-tachra": "Vestido de novia blanco de encaje a medida",
+    "kala-katef": "Vestido de novia blanco asimétrico de un hombro",
+    "kala-tul": "Vestido de novia con falda de tul vaporosa",
+    "kala-atelier": "Trabajo a mano sobre un vestido de novia en el taller",
+    "erev-zahav": "Vestido de fiesta de encaje dorado",
+    "erev-kachol": "Vestido de fiesta de encaje azul con mangas acampanadas",
+    "erev-shampanya": "Vestido de fiesta color champán con escote en V",
+    "erev-glima": "Vestido de fiesta dorado con capa",
+    "erev-yarok": "Vestido de fiesta de satén verde con cinturón bordado",
+    "erev-kesef": "Vestido de fiesta plateado brillante",
+    "erev-katsar": "Vestido de fiesta corto de lentejuelas",
+    "erev-varod": "Vestido de fiesta rosa ajustado y bordado",
+    "erev-sagol": "Vestido de fiesta morado con abertura y cinturón dorado",
+    "erev-shachor": "Vestido de fiesta negro transparente",
+    "erev-lavan": "Vestido de fiesta blanco con corsé y abertura",
+    "hina-kaftan": "Caftán de henna blanco bordado en oro",
+    "hina-glima": "Vestido de henna con capa",
+    "hina-zahav": "Traje de henna dorado de inspiración marroquí",
+    "hina-adom": "Novia de henna con vestido rojo",
+    "hina-kesef": "Novia de henna con vestido plateado y tocado brillante",
+    "hina-zug": "Novios con trajes de henna marroquíes",
+    "tafura-bama": "Escenario de henna con arcos dorados y talamón",
+    "tafura-adom": "Decoración de henna con cortinas rojas",
+    "tafura-shuk": "Zoco de frutos secos y especias en una henna",
+    "tafura-kise": "Talamón blanco y dorado para los novios",
+    "tafura-knisa": "Entrada decorada de una noche de henna",
+    "tafura-kaara": "Mesa decorada para el cuenco de henna",
+    "tafura-ugiot": "Bandeja de dulces marroquíes caseros",
+    "tafura-kirkara": "Carroza decorada para la entrada de la novia",
+    "tafura-gamal": "Camello decorado en una henna",
+    "decor-henne": "Recorrido por una decoración de henna",
+    "danseuse-feu": "Bailarina de fuego en una noche de henna",
+    "mariee-caftan": "Novia bailando con caftán blanco",
+    "entree-couple": "Entrada de los novios a su noche de henna"
+  }
+}

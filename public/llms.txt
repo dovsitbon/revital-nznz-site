@@ -1,0 +1,14 @@
+# Revital Nznz – רויטל נצנץ
+
+> Créatrice de robes de mariée et de soirée sur mesure, location de robes de henné et de caftans, et production de soirées henné marocaines de luxe en Israël. Site en hébreu (par défaut), anglais, français et espagnol.
+
+- Contact : WhatsApp et téléphone +972 52-250-8310 (https://wa.me/972522508310), Instagram https://www.instagram.com/revital_nznz/
+- Essayages au showroom sur rendez-vous uniquement.
+
+## Pages
+- [Accueil](https://revital-nznz.vercel.app/he): collection, production de henné, réalisations, FAQ, prise de rendez-vous
+- [Robes de mariée](https://revital-nznz.vercel.app/he/bridal-dresses): création sur mesure
+- [Robes de soirée](https://revital-nznz.vercel.app/he/evening-dresses): location ou achat, pièces uniques
+- [Robes de henné](https://revital-nznz.vercel.app/he/henna-dresses): caftans, capes, tenues pour la mariée, le marié et la famille
+- [Production de soirées henné](https://revital-nznz.vercel.app/he/henna-production): talamon, caftans, tapis et pont d'accueil, table du bol de henné, gâteaux marocains faits main, souk de fruits secs
+- English: https://revital-nznz.vercel.app/en · Français: https://revital-nznz.vercel.app/fr · Español: https://revital-nznz.vercel.app/es

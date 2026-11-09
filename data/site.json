@@ -1,0 +1,20 @@
+{
+  "_note": "Infos de contact et réglages. city.confirmed = false : la ville (Shoham, d'après #שוהם et ses livraisons « à Shoham et environs ») n'apparaît ni sur le site ni dans les titres tant que Revital ne l'a pas confirmée. showroom.address = null → « adresse envoyée à la prise de rendez-vous ».",
+  "name": "רויטל נצנץ",
+  "nameLatin": "Revital Nznz",
+  "url": "https://revital-nznz.vercel.app",
+  "whatsapp": "972522508310",
+  "phone": "+972522508310",
+  "phoneDisplay": "052-250-8310",
+  "instagram": "https://www.instagram.com/revital_nznz/",
+  "instagramHandle": "@revital_nznz",
+  "followers": { "count": 10100, "date": "2026-11-09" },
+  "city": { "confirmed": false, "he": "שוהם", "en": "Shoham", "fr": "Shoham", "es": "Shoham" },
+  "showroom": { "address": null, "mapsUrl": null, "geo": null },
+  "payments": {
+    "_note": "Paiement d'acompte en ligne prévu (lib/payment.ts) mais désactivé. Pour l'activer : enabled = true, depositILS = montant, et la variable STRIPE_SECRET_KEY sur Vercel.",
+    "enabled": false,
+    "provider": "stripe",
+    "depositILS": null
+  }
+}

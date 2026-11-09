@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "title": "Robes de henné, robes de mariée et de soirée, soirées henné de luxe | Revital Nznz",
+    "titleCity": "Robes de henné, robes de mariée et de soirée, soirées henné à {city} | Revital Nznz",
+    "description": "Revital Nznz crée des robes de mariée et de soirée sur mesure, loue des robes de henné et des caftans, et produit des soirées henné marocaines de luxe : talamon, gâteaux faits main, souk d'épices. Rendez-vous d'essayage sur WhatsApp.",
+    "pages": {
+      "bridal": {
+        "title": "Robes de mariée sur mesure | Revital Nznz",
+        "description": "Des robes de mariée cousues selon les envies de chaque mariée : dentelle, tulle, manches évasées. Rendez-vous de création et essayages au showroom de Revital Nznz."
+      },
+      "evening": {
+        "title": "Robes de soirée à louer ou à acheter | Revital Nznz",
+        "description": "Robes de soirée de créatrice à louer ou à acheter : or, argent, dentelle, capes. Chaque robe est une pièce unique. Essayage au showroom sur rendez-vous."
+      },
+      "henna": {
+        "title": "Robes de henné et caftans à louer | Revital Nznz",
+        "description": "Robes de henné, caftans et capes pour la mariée, le marié et la famille. Un henné luxueux d'inspiration marocaine, essayage sur rendez-vous."
+      },
+      "production": {
+        "title": "Production de soirées henné de luxe | Revital Nznz",
+        "description": "Soirée henné marocaine clés en main : talamon pour les mariés, caftans, tapis et pont d'accueil, table du bol de henné, gâteaux marocains faits main et souk de fruits secs."
+      },
+      "legal": {
+        "title": "Mentions légales et confidentialité | Revital Nznz",
+        "description": "Informations sur le site, confidentialité et droits sur les images."
+      }
+    }
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "menu": "Menu",
+    "close": "Fermer",
+    "home": "Revital Nznz – accueil",
+    "language": "Langue",
+    "book": "Prendre rendez-vous",
+    "bridal": "Mariée",
+    "evening": "Soirée",
+    "henna": "Robes de henné",
+    "production": "Soirées henné",
+    "about": "Revital",
+    "contact": "Contact"
+  },
+  "infobar": {
+    "close": "Fermer ce message"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "hero": {
+    "eyebrow": "Mariée · Soirée · Henné · Production de soirées henné",
+    "title": "Éblouissante, du henné à la houppa",
+    "lead": "Robes de mariée et de soirée sur mesure, robes de henné et caftans, et une soirée henné marocaine complète, du talamon à la table de gâteaux.",
+    "ctaFitting": "Prendre rendez-vous",
+    "ctaHenna": "Organiser mon henné",
+    "proof": "{n} abonnés sur Instagram",
+    "scroll": "Défiler"
+  },
+  "cards": {
+    "eyebrow": "Ce que vous trouverez ici",
+    "title": "Quatre univers, une même main",
+    "items": {
+      "bridal": {
+        "title": "Robes de mariée",
+        "text": "Cousues autour de votre rêve, l'émotion d'abord.",
+        "cta": "Voir les robes de mariée"
+      },
+      "evening": {
+        "title": "Robes de soirée",
+        "text": "À louer ou à acheter, chacune en un seul exemplaire.",
+        "cta": "Voir les robes de soirée"
+      },
+      "henna": {
+        "title": "Robes de henné",
+        "text": "Caftans, capes et robes pour la mariée et la famille.",
+        "cta": "Voir les robes de henné"
+      },
+      "production": {
+        "title": "Soirées henné",
+        "text": "Un henné marocain complet, du décor aux gâteaux.",
+        "cta": "Organiser mon henné"
+      }
+    }
+  },
+  "collection": {
+    "eyebrow": "La collection",
+    "title": "Quelques pièces de la garde-robe de Revital",
+    "lead": "Une sélection de la collection. Beaucoup d'autres robes vous attendent au showroom : vous verrez celles qui sont disponibles lors de l'essayage.",
+    "filtersLabel": "Filtrer par type de robe",
+    "filters": {
+      "all": "Tout",
+      "mariee": "Mariée",
+      "soiree": "Soirée",
+      "henne": "Henné"
+    },
+    "modes": {
+      "custom": "Sur mesure",
+      "rental": "À louer",
+      "sale": "À acheter",
+      "rental-sale": "À louer ou à acheter"
+    },
+    "priceFrom": "À partir de {price}",
+    "priceOnRequest": "Prix au rendez-vous",
+    "ask": "Demander cette robe",
+    "askMessage": "Bonjour Revital, j'ai vu la robe {ref} ({name}) sur votre site et j'aimerais en savoir plus.",
+    "count": "{n} robes",
+    "open": "Agrandir la photo",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "more": "Voir plus de robes"
+  },
+  "henna": {
+    "eyebrow": "Production de soirées henné",
+    "title": "Le henné qu'on ne vit qu'une fois",
+    "lead": "Revital réunit toute la magie du Maroc en un seul lieu : un décor royal, des tenues pour la mariée, le marié et la famille, et une ambiance qu'on n'oublie pas.",
+    "quote": "Pour moi, un henné n'est pas un simple événement : c'est entrer dans le cœur des gens et tout faire avec un immense amour.",
+    "includedTitle": "Ce que comprend la production",
+    "included": {
+      "talamon": "Un talamon somptueux pour la mariée et le marié",
+      "kaftans": "Des caftans de luxe pour la mariée, le marié et la famille",
+      "carpets": "Tapis du talamon, long tapis d'entrée et pont d'accueil",
+      "hennaTable": "Une table dressée pour le bol de henné",
+      "cookies": "Une table de gâteaux marocains faits main",
+      "market": "Un souk de fruits secs et d'épices au décor authentique",
+      "design": "Une décoration complète, traditionnelle et spectaculaire, suivie personnellement",
+      "attractions": "Des animations pour la soirée, choisies avec vous"
+    },
+    "packagesTitle": "Formules",
+    "custom": "Chaque soirée henné fait l'objet d'un devis personnalisé, selon le nombre d'invités, le lieu et ce que vous souhaitez inclure.",
+    "priceFrom": "À partir de {price}",
+    "regions": "Zones d'intervention",
+    "cta": "Vérifier ma date",
+    "video": "Visite d'un décor de henné signé Revital (sans le son)"
+  },
+  "blocks": {
+    "atelier": {
+      "eyebrow": "L'atelier",
+      "title": "Une robe construite autour de vous",
+      "text": "Robes de mariée et de soirée en haute couture, réalisées selon les envies de chaque cliente. Vous choisissez ensemble le tissu, la coupe et les détails, puis les essayages s'enchaînent jusqu'à ce que la robe tombe parfaitement.",
+      "cta": "Voir la collection"
+    },
+    "day": {
+      "eyebrow": "Le jour du henné",
+      "title": "De l'entrée à la dernière danse",
+      "text": "Un pont d'accueil, un long tapis, un talamon illuminé, le bol de henné sur une table dressée et un souk d'épices devant lequel tout le monde veut sa photo.",
+      "cta": "Organiser mon henné"
+    },
+    "fitting": {
+      "eyebrow": "L'essayage",
+      "title": "Essayer sans se presser",
+      "text": "Les essayages au showroom se font uniquement sur rendez-vous : le temps est tout à vous. Parlez de votre événement à Revital, elle préparera les robes qui lui conviennent.",
+      "cta": "Prendre rendez-vous"
+    }
+  },
+  "work": {
+    "eyebrow": "Productions récentes",
+    "title": "Soirées henné signées Revital",
+    "lead": "Chaque soirée a son propre concept. D'autres moments vous attendent sur Instagram.",
+    "guests": "{n} invités",
+    "more": "Plus de soirées sur Instagram",
+    "play": "Lire la vidéo",
+    "pause": "Mettre la vidéo en pause"
+  },
+  "about": {
+    "eyebrow": "Qui suis-je",
+    "title": "Revital Nznz",
+    "text": [
+      "Je crée des robes de mariée et de soirée et je produis des soirées henné. Ce qui m'anime, c'est l'instant où une mariée se découvre dans le miroir, ou entre dans son henné et toute la famille se lève.",
+      "En février 2026, j'ai eu la joie de produire le henné de ma propre fille, venu tout droit du Maroc. J'apporte ce même soin à chaque mariée qui entre dans mon royaume."
+    ],
+    "cta": "Écrire à Revital sur WhatsApp"
+  },
+  "reviews": {
+    "eyebrow": "Paroles de mariées",
+    "title": "Ce qu'elles écrivent après le henné",
+    "empty": "Bientôt ici : les mots des mariées et des familles que Revital a accompagnées.",
+    "more": "Lire les commentaires sur Instagram"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Les questions des mariées",
+    "items": [
+      {
+        "q": "Combien de temps avant le mariage venir essayer ?",
+        "a": "Pour une robe sur mesure, mieux vaut commencer quelques mois à l'avance, pour laisser le temps à la création et aux essayages. Pour une robe de soirée ou de henné en location, plus près de la date peut aussi convenir. Revital établit avec vous un calendrier selon votre date."
+      },
+      {
+        "q": "Location, achat ou sur mesure ?",
+        "a": "Les robes de soirée se louent ou s'achètent, les robes de mariée sont cousues selon vos envies, et les caftans de henné se louent pour la mariée, le marié et la famille. Au rendez-vous, vous saurez ce qui convient à votre événement et à votre budget."
+      },
+      {
+        "q": "Les retouches sont-elles prévues ?",
+        "a": "Oui, la robe est ajustée sur vous au fil des essayages. L'ampleur et le calendrier des retouches sont fixés au rendez-vous."
+      },
+      {
+        "q": "Combien de tenues prévoir pour le henné ?",
+        "a": "Certaines mariées gardent une seule tenue, d'autres en changent plusieurs fois dans la soirée, et l'on peut aussi habiller le marié et la famille. Dites à Revital ce que vous imaginez, elle vous proposera un ensemble."
+      },
+      {
+        "q": "Dans quelles régions Revital produit-elle des soirées ?",
+        "a": "Indiquez-nous dans le formulaire où aura lieu l'événement : Revital vous répondra sur ses disponibilités pour la date et le lieu."
+      },
+      {
+        "q": "Comment réserver ma date ? Faut-il un acompte ?",
+        "a": "La date est bloquée une fois les détails validés avec Revital. Le montant de l'acompte et le mode de paiement vous sont précisés lors de l'échange."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Prendre rendez-vous ou vérifier une date",
+    "lead": "Remplissez quelques champs : votre message part directement sur le WhatsApp de Revital. Vous pouvez aussi laisser un message vocal.",
+    "whatsapp": "WhatsApp",
+    "phone": "Téléphone",
+    "instagram": "Instagram",
+    "showroom": "Showroom",
+    "showroomTbd": "L'adresse vous est envoyée à la prise de rendez-vous",
+    "hours": "Horaires",
+    "byAppointment": "Sur rendez-vous uniquement",
+    "closed": "Fermé",
+    "days": [
+      "Dimanche",
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi"
+    ]
+  },
+  "booking": {
+    "tabsLabel": "Type de demande",
+    "tabs": {
+      "fitting": "Rendez-vous d'essayage",
+      "henna": "Soirée henné"
+    },
+    "steps": {
+      "dress": "La robe",
+      "fitting": "Vos disponibilités",
+      "event": "L'événement",
+      "wishes": "Vos envies",
+      "contact": "Vos coordonnées"
+    },
+    "fields": {
+      "dressType": "Type de robe",
+      "dressTypes": {
+        "mariee": "Mariée",
+        "soiree": "Soirée",
+        "henne": "Henné"
+      },
+      "eventDate": "Date de l'événement",
+      "fittingDate": "Date souhaitée pour l'essayage",
+      "slot": "Créneau souhaité",
+      "slots": {
+        "morning": "Matin",
+        "afternoon": "Après-midi",
+        "evening": "Soir"
+      },
+      "size": "Taille approximative",
+      "sizePlaceholder": "par ex. 38",
+      "date": "Date du henné",
+      "place": "Lieu",
+      "placePlaceholder": "Ville, salle ou domicile",
+      "guests": "Nombre d'invités approximatif",
+      "wishes": "Ce que vous souhaitez",
+      "wishesOptions": {
+        "decor": "Décor",
+        "outfits": "Tenues de la mariée et de la famille",
+        "all": "Tout compris"
+      },
+      "budget": "Budget",
+      "budgetPlaceholder": "par ex. 15 000 ₪",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "message": "Message",
+      "messagePlaceholder": "Couleurs, inspirations, tout ce qui compte pour vous",
+      "optional": "facultatif",
+      "dateTaken": "Revital est déjà prise à cette date. Vous pouvez quand même envoyer : elle vous répondra.",
+      "dateFree": "Cette date est encore libre dans l'agenda."
+    },
+    "calendar": {
+      "title": "Dates déjà prises",
+      "prev": "Mois précédent",
+      "next": "Mois suivant",
+      "taken": "Pris",
+      "updated": "Mis à jour le"
+    },
+    "submit": "Envoyer sur WhatsApp",
+    "note": "Le message s'ouvre dans WhatsApp et c'est vous qui l'envoyez. Rien n'est enregistré sur le site.",
+    "required": "Champ obligatoire",
+    "invalidPhone": "Ce numéro ne semble pas valide",
+    "success": {
+      "thanks": "Merci",
+      "title": "Votre message est prêt dans WhatsApp",
+      "text": "Si WhatsApp ne s'est pas ouvert, réessayez avec le bouton ci-dessous. Revital répond à chaque demande.",
+      "again": "Rouvrir WhatsApp",
+      "reset": "Nouvelle demande"
+    },
+    "message": {
+      "fittingTitle": "Demande de rendez-vous d'essayage – depuis le site",
+      "hennaTitle": "Demande de production de soirée henné – depuis le site",
+      "dressType": "Robe",
+      "eventDate": "Date de l'événement",
+      "fittingDate": "Essayage souhaité",
+      "slot": "Créneau",
+      "size": "Taille",
+      "date": "Date du henné",
+      "place": "Lieu",
+      "guests": "Invités",
+      "wishes": "Souhaits",
+      "budget": "Budget",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "notes": "Message",
+      "closing": "Merci !"
+    }
+  },
+  "whatsapp": {
+    "hello": "Bonjour Revital, je vous écris depuis votre site et j'aimerais quelques renseignements.",
+    "float": "Écrire à Revital sur WhatsApp"
+  },
+  "pages": {
+    "back": "Retour à l'accueil",
+    "bridal": {
+      "eyebrow": "Robes de mariée",
+      "title": "Une robe de mariée cousue pour vous",
+      "lead": "Revital crée des robes de mariée en haute couture, selon les envies de chaque mariée et guidée par l'émotion : dentelle, tulle, manches évasées, épaule dénudée.",
+      "body": [
+        "Tout commence par un rendez-vous au showroom : vous parlez de l'événement, de votre style et de ce qui vous touche. À partir de là, vous construisez la robe ensemble, et les essayages se suivent jusqu'à ce qu'elle tombe parfaitement.",
+        "Pour le henné, vous pouvez compléter avec une tenue marocaine de la collection : toute la grande semaine sort alors de la même main."
+      ],
+      "cta": "Prendre rendez-vous"
+    },
+    "evening": {
+      "eyebrow": "Robes de soirée",
+      "title": "Robes de soirée à louer ou à acheter",
+      "lead": "Or, argent, dentelle, capes et jupes fendues. Des robes de créatrice pour la mère de la mariée, les sœurs, les amies et chaque soirée de fête.",
+      "body": [
+        "Chaque robe de la collection est une pièce unique : vous ne la croiserez pas sur une autre invitée. Vous pouvez la louer pour une soirée ou l'acheter.",
+        "Avant l'essayage, Revital prépare quelques robes selon la couleur et la taille que vous lui indiquez."
+      ],
+      "cta": "Prendre rendez-vous"
+    },
+    "henna": {
+      "eyebrow": "Robes de henné",
+      "title": "Robes de henné et caftans",
+      "lead": "Caftans brodés, capes dorées et robes rouges pour la mariée du henné, et des tenues pour le marié et la famille.",
+      "body": [
+        "Le henné selon Revital mêle tradition marocaine et touches de luxe : broderies d'or, pierres, étoffes riches et couronne pour la mariée.",
+        "Vous pouvez louer les tenues pour la soirée, ou les intégrer à une production de henné complète."
+      ],
+      "cta": "Prendre rendez-vous"
+    },
+    "production": {
+      "eyebrow": "Soirées henné",
+      "title": "Production de soirées henné de luxe",
+      "lead": "Une soirée henné marocaine complète, suivie personnellement et faite avec l'amour de la tradition : décor, tenues, gâteaux faits main et souk d'épices.",
+      "body": [
+        "Revital construit la soirée autour de votre concept : de l'entrée décorée au talamon, de la table du bol de henné aux gâteaux marocains.",
+        "Chaque production fait l'objet d'un devis personnalisé. Envoyez la date, le lieu et le nombre d'invités, Revital revient vers vous avec une proposition."
+      ],
+      "cta": "Vérifier ma date"
+    }
+  },
+  "footer": {
+    "tagline": "Productions de henné et robes de mariée",
+    "nav": "Navigation",
+    "follow": "Sur Instagram",
+    "legal": "Mentions légales et confidentialité",
+    "rights": "Tous droits réservés",
+    "photos": "Toutes les photos du site proviennent de l'Instagram de Revital Nznz."
+  },
+  "legal": {
+    "title": "Mentions légales et confidentialité",
+    "sections": [
+      {
+        "h": "Le site",
+        "p": "Ce site présente le travail et les services de Revital Nznz : création de robes de mariée, de soirée et de henné, et production de soirées henné. Contact : +972 52-250-8310."
+      },
+      {
+        "h": "Confidentialité",
+        "p": "Les formulaires du site n'enregistrent rien. Les informations saisies sont placées dans un message WhatsApp que vous envoyez vous-même à Revital. Le site n'utilise aucun cookie publicitaire."
+      },
+      {
+        "h": "Images",
+        "p": "Les photos et vidéos appartiennent à Revital Nznz et aux photographes avec qui elle a travaillé. Merci de ne pas les reproduire sans autorisation."
+      },
+      {
+        "h": "Prix et disponibilités",
+        "p": "Les prix, disponibilités et conditions de location sont communiqués au rendez-vous et confirmés par écrit. Les photos montrent des réalisations passées et ne garantissent pas la disponibilité d'une robe précise."
+      }
+    ]
+  },
+  "alt": {
+    "kalat-hina": "Mariée du henné en robe blanche à traîne, devant des rideaux rouges",
+    "revital": "Revital Nznz en robe champagne avec cape, dans un décor de henné",
+    "kala-tachra": "Robe de mariée blanche en dentelle, sur mesure",
+    "kala-katef": "Robe de mariée blanche asymétrique, une épaule",
+    "kala-tul": "Robe de mariée à jupe de tulle bouffante",
+    "kala-atelier": "Travail à la main sur une robe de mariée à l'atelier",
+    "erev-zahav": "Robe de soirée en dentelle dorée",
+    "erev-kachol": "Robe de soirée en dentelle bleue à manches évasées",
+    "erev-shampanya": "Robe de soirée champagne au décolleté en V",
+    "erev-glima": "Robe de soirée dorée avec cape",
+    "erev-yarok": "Robe de soirée en satin vert à ceinture brodée",
+    "erev-kesef": "Robe de soirée argentée scintillante",
+    "erev-katsar": "Robe de soirée courte pailletée",
+    "erev-varod": "Robe de soirée rose ajustée et brodée",
+    "erev-sagol": "Robe de soirée violette fendue, ceinture dorée",
+    "erev-shachor": "Robe de soirée noire transparente",
+    "erev-lavan": "Robe de soirée blanche à corset, fendue",
+    "hina-kaftan": "Caftan de henné blanc brodé d'or",
+    "hina-glima": "Robe de henné avec cape",
+    "hina-zahav": "Tenue de henné dorée d'inspiration marocaine",
+    "hina-adom": "Mariée du henné en robe rouge",
+    "hina-kesef": "Mariée du henné en robe argentée et coiffe scintillante",
+    "hina-zug": "Mariés en tenues de henné marocaines",
+    "tafura-bama": "Scène de henné aux arches dorées avec talamon",
+    "tafura-adom": "Décor de henné aux rideaux rouges",
+    "tafura-shuk": "Souk de fruits secs et d'épices dans un décor de henné",
+    "tafura-kise": "Talamon blanc et or pour les mariés",
+    "tafura-knisa": "Entrée décorée d'une soirée henné",
+    "tafura-kaara": "Table dressée pour le bol de henné",
+    "tafura-ugiot": "Plateau de gâteaux marocains faits main",
+    "tafura-kirkara": "Carrosse décoré pour l'entrée de la mariée",
+    "tafura-gamal": "Chameau décoré dans un décor de henné",
+    "decor-henne": "Visite d'un décor de henné",
+    "danseuse-feu": "Danseuse de feu lors d'une soirée henné",
+    "mariee-caftan": "Mariée dansant en caftan blanc",
+    "entree-couple": "Entrée des mariés à leur soirée henné"
+  }
+}

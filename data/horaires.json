@@ -1,0 +1,6 @@
+{
+  "_note": "À REMPLIR avec Revital : horaires du showroom, une ligne par jour (0 = dimanche … 6 = samedi), format \"HH:MM-HH:MM\", null = fermé. Tant que days = null, le site affiche « sur rendez-vous uniquement ».",
+  "updated": "2026-11-09",
+  "byAppointmentOnly": true,
+  "days": null
+}

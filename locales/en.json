@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "title": "Henna Dresses, Bridal & Evening Gowns and Luxury Henna Party Production | Revital Nznz",
+    "titleCity": "Henna Dresses, Bridal & Evening Gowns and Henna Party Production in {city} | Revital Nznz",
+    "description": "Revital Nznz designs made-to-measure bridal and evening gowns, rents henna dresses and kaftans, and produces luxury Moroccan henna parties: talamon, handmade cookies, spice market. Book a fitting on WhatsApp.",
+    "pages": {
+      "bridal": {
+        "title": "Made-to-Measure Bridal Gowns | Revital Nznz",
+        "description": "Bridal gowns sewn to each bride's wishes: lace, tulle, bell sleeves. Design meeting and fittings at Revital Nznz's showroom, by appointment."
+      },
+      "evening": {
+        "title": "Evening Dresses to Rent or Buy | Revital Nznz",
+        "description": "Designer evening dresses to rent or buy: gold, silver, lace, capes. Each dress is one of a kind. Showroom fittings by appointment."
+      },
+      "henna": {
+        "title": "Henna Dresses and Kaftans to Rent | Revital Nznz",
+        "description": "Henna dresses, kaftans and capes for the bride, the groom and the family. Luxurious Moroccan-inspired henna styling, fittings by appointment."
+      },
+      "production": {
+        "title": "Luxury Henna Party Production | Revital Nznz",
+        "description": "Full Moroccan henna production: talamon for the couple, kaftans, carpets and welcome bridge, henna bowl table, handmade Moroccan cookies and a nut and spice market."
+      },
+      "legal": {
+        "title": "Legal & Privacy | Revital Nznz",
+        "description": "Site details, privacy policy and image rights."
+      }
+    }
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close",
+    "home": "Revital Nznz – home",
+    "language": "Language",
+    "book": "Book a fitting",
+    "bridal": "Bridal",
+    "evening": "Evening",
+    "henna": "Henna dresses",
+    "production": "Henna parties",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "infobar": {
+    "close": "Close this notice"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "hero": {
+    "eyebrow": "Bridal · Evening · Henna · Henna party production",
+    "title": "Shining from the henna to the chuppah",
+    "lead": "Made-to-measure bridal and evening gowns, henna dresses and kaftans, and a full Moroccan henna night – from the talamon to the cookie table.",
+    "ctaFitting": "Book a fitting",
+    "ctaHenna": "Plan a henna party",
+    "proof": "{n} Instagram followers",
+    "scroll": "Scroll"
+  },
+  "cards": {
+    "eyebrow": "What you will find here",
+    "title": "Four worlds, one pair of hands",
+    "items": {
+      "bridal": {
+        "title": "Bridal gowns",
+        "text": "Sewn around your dream, with feeling first.",
+        "cta": "See bridal gowns"
+      },
+      "evening": {
+        "title": "Evening dresses",
+        "text": "To rent or to buy, each one of a kind.",
+        "cta": "See evening dresses"
+      },
+      "henna": {
+        "title": "Henna dresses",
+        "text": "Kaftans, capes and gowns for the bride and family.",
+        "cta": "See henna dresses"
+      },
+      "production": {
+        "title": "Henna parties",
+        "text": "A complete Moroccan henna night, décor to cookies.",
+        "cta": "Plan a henna party"
+      }
+    }
+  },
+  "collection": {
+    "eyebrow": "The collection",
+    "title": "Pieces from Revital's wardrobe",
+    "lead": "A selection from the collection. Many more dresses wait in the showroom – you will see what is available at your fitting.",
+    "filtersLabel": "Filter by type of dress",
+    "filters": {
+      "all": "All",
+      "mariee": "Bridal",
+      "soiree": "Evening",
+      "henne": "Henna"
+    },
+    "modes": {
+      "custom": "Made to measure",
+      "rental": "To rent",
+      "sale": "To buy",
+      "rental-sale": "To rent or buy"
+    },
+    "priceFrom": "From {price}",
+    "priceOnRequest": "Price at the fitting",
+    "ask": "Ask about this dress",
+    "askMessage": "Hi Revital, I saw dress {ref} ({name}) on your website and would love more details.",
+    "count": "{n} dresses",
+    "open": "Enlarge the photo",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "more": "See more dresses"
+  },
+  "henna": {
+    "eyebrow": "Henna party production",
+    "title": "The henna night you only have once",
+    "lead": "Revital brings all the magic of Morocco under one roof: regal décor, outfits for the bride, the groom and the family, and an atmosphere nobody forgets.",
+    "quote": "For me, a henna is not just an event. It is stepping into people's hearts and doing everything with enormous love.",
+    "includedTitle": "What the production includes",
+    "included": {
+      "talamon": "A grand talamon for the bride and groom",
+      "kaftans": "Luxury kaftans for the bride, the groom and the family",
+      "carpets": "Talamon carpet, long entrance carpet and welcome bridge",
+      "hennaTable": "A styled table for the henna bowl",
+      "cookies": "A table of handmade Moroccan cookies",
+      "market": "An authentic nut and spice market",
+      "design": "Full, traditional, striking design with personal attention",
+      "attractions": "Entertainment for the evening, planned with you"
+    },
+    "packagesTitle": "Packages",
+    "custom": "Every henna night is priced personally, depending on the number of guests, the venue and what you would like to include.",
+    "priceFrom": "From {price}",
+    "regions": "Where Revital produces",
+    "cta": "Check your date",
+    "video": "A walk through one of Revital's henna sets (no sound)"
+  },
+  "blocks": {
+    "atelier": {
+      "eyebrow": "The studio",
+      "title": "A dress built around you",
+      "text": "Bridal and evening gowns in fine tailoring, made to each client's wishes. You choose fabric, cut and details together, and fit until the dress sits perfectly.",
+      "cta": "See the collection"
+    },
+    "day": {
+      "eyebrow": "Henna day",
+      "title": "From the entrance to the last dance",
+      "text": "A welcome bridge, a long carpet, a glowing talamon, the henna bowl on a styled table and a spice market everyone wants a photo with.",
+      "cta": "Plan a henna party"
+    },
+    "fitting": {
+      "eyebrow": "The fitting",
+      "title": "Take your time trying on",
+      "text": "Showroom fittings are by appointment only, so the time is all yours. Tell Revital about your event and she will prepare dresses that suit it.",
+      "cta": "Book a fitting"
+    }
+  },
+  "work": {
+    "eyebrow": "Recent productions",
+    "title": "Henna nights by Revital",
+    "lead": "Every night has its own concept. More moments are waiting on Instagram.",
+    "guests": "{n} guests",
+    "more": "More productions on Instagram",
+    "play": "Play the video",
+    "pause": "Pause the video"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Revital Nznz",
+    "text": [
+      "I design bridal and evening gowns and produce henna nights. What drives me is the moment a bride sees herself in the mirror, or walks into her henna and the whole family rises.",
+      "In February 2026 I had the joy of producing my own daughter's henna, straight from Morocco. I bring that same care to every bride who walks into my kingdom."
+    ],
+    "cta": "Talk to Revital on WhatsApp"
+  },
+  "reviews": {
+    "eyebrow": "Brides' words",
+    "title": "What they write after the henna",
+    "empty": "Coming soon: words from brides and families Revital has worked with.",
+    "more": "Read comments on Instagram"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "What brides often ask",
+    "items": [
+      {
+        "q": "How long before the wedding should I come for a fitting?",
+        "a": "For a made-to-measure gown, start a few months ahead so there is time for design and fittings. For a rented evening or henna dress, closer to the date can work too. Revital will plan a schedule with you around your date."
+      },
+      {
+        "q": "Rent, buy or made to measure?",
+        "a": "Evening dresses can be rented or bought, bridal gowns are sewn to your wishes, and henna kaftans are rented for the bride, the groom and the family. At the fitting you will hear what suits your event and budget."
+      },
+      {
+        "q": "Are alterations included?",
+        "a": "Yes, the dress is fitted to you over the fittings. The extent and timing of alterations are agreed at your appointment."
+      },
+      {
+        "q": "How many outfits do I need for the henna?",
+        "a": "Some brides wear one outfit, others change several times during the night, and the groom and family can be dressed too. Tell Revital what you imagine and she will suggest a combination."
+      },
+      {
+        "q": "Where does Revital produce henna parties?",
+        "a": "Tell us in the form where your event will be, and Revital will get back to you about availability for your date and venue."
+      },
+      {
+        "q": "How do I hold my date? Is there a deposit?",
+        "a": "Your date is held once the details are agreed with Revital. The deposit amount and payment method are given when you speak."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Book a fitting or check a date",
+    "lead": "Fill in a few details and your message goes straight to Revital's WhatsApp. You can also leave a voice note.",
+    "whatsapp": "WhatsApp",
+    "phone": "Phone",
+    "instagram": "Instagram",
+    "showroom": "Showroom",
+    "showroomTbd": "The address is sent when your fitting is booked",
+    "hours": "Hours",
+    "byAppointment": "By appointment only",
+    "closed": "Closed",
+    "days": [
+      "Sunday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ]
+  },
+  "booking": {
+    "tabsLabel": "Type of request",
+    "tabs": {
+      "fitting": "Book a fitting",
+      "henna": "Henna production"
+    },
+    "steps": {
+      "dress": "The dress",
+      "fitting": "When suits you",
+      "event": "The event",
+      "wishes": "What you would like",
+      "contact": "Your details"
+    },
+    "fields": {
+      "dressType": "Type of dress",
+      "dressTypes": {
+        "mariee": "Bridal",
+        "soiree": "Evening",
+        "henne": "Henna"
+      },
+      "eventDate": "Event date",
+      "fittingDate": "Preferred fitting date",
+      "slot": "Preferred time",
+      "slots": {
+        "morning": "Morning",
+        "afternoon": "Afternoon",
+        "evening": "Evening"
+      },
+      "size": "Approximate size",
+      "sizePlaceholder": "e.g. 38 (EU)",
+      "date": "Henna date",
+      "place": "Venue",
+      "placePlaceholder": "City, hall or home",
+      "guests": "Approximate number of guests",
+      "wishes": "What to include",
+      "wishesOptions": {
+        "decor": "Décor and set",
+        "outfits": "Outfits for bride and family",
+        "all": "Everything"
+      },
+      "budget": "Budget",
+      "budgetPlaceholder": "e.g. ₪15,000",
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message",
+      "messagePlaceholder": "Colours, inspiration, anything that matters to you",
+      "optional": "optional",
+      "dateTaken": "Revital is already booked on this date. You can still send – she will get back to you.",
+      "dateFree": "This date is still open in the diary."
+    },
+    "calendar": {
+      "title": "Booked dates",
+      "prev": "Previous month",
+      "next": "Next month",
+      "taken": "Booked",
+      "updated": "Updated"
+    },
+    "submit": "Send on WhatsApp",
+    "note": "The message opens in WhatsApp and you send it yourself. Nothing is stored on this site.",
+    "required": "Required",
+    "invalidPhone": "This phone number does not look right",
+    "success": {
+      "thanks": "Thank you",
+      "title": "Your message is ready in WhatsApp",
+      "text": "If WhatsApp did not open, try again with the button below. Revital answers every request.",
+      "again": "Open WhatsApp again",
+      "reset": "New request"
+    },
+    "message": {
+      "fittingTitle": "Fitting request – from the website",
+      "hennaTitle": "Henna production request – from the website",
+      "dressType": "Dress",
+      "eventDate": "Event date",
+      "fittingDate": "Preferred fitting",
+      "slot": "Time",
+      "size": "Size",
+      "date": "Henna date",
+      "place": "Venue",
+      "guests": "Guests",
+      "wishes": "Include",
+      "budget": "Budget",
+      "name": "Name",
+      "phone": "Phone",
+      "notes": "Message",
+      "closing": "Thank you!"
+    }
+  },
+  "whatsapp": {
+    "hello": "Hi Revital, I found you through your website and would love some details.",
+    "float": "Message Revital on WhatsApp"
+  },
+  "pages": {
+    "back": "Back to home",
+    "bridal": {
+      "eyebrow": "Bridal gowns",
+      "title": "A bridal gown sewn for you",
+      "lead": "Revital designs bridal gowns in fine tailoring, made to each bride's wishes and led by feeling: lace, tulle, bell sleeves, one shoulder.",
+      "body": [
+        "It starts with a meeting at the showroom: you talk about the event, your style and what moves you. From there you build the dress together and fit until it sits perfectly.",
+        "For the henna, you can add a Moroccan outfit from the collection, so the whole look of the big week comes from the same hands."
+      ],
+      "cta": "Book a fitting"
+    },
+    "evening": {
+      "eyebrow": "Evening dresses",
+      "title": "Evening dresses to rent or buy",
+      "lead": "Gold, silver, lace, capes and split skirts. Designer dresses for the mother of the bride, sisters, friends and every festive night.",
+      "body": [
+        "Each dress in the collection is one of a kind, so you will not meet it on another guest. Rent it for one night or buy it.",
+        "Before your fitting, Revital prepares a few dresses based on the colour and size you share with her."
+      ],
+      "cta": "Book a fitting"
+    },
+    "henna": {
+      "eyebrow": "Henna dresses",
+      "title": "Henna dresses and kaftans",
+      "lead": "Embroidered kaftans, gold capes and red gowns for the henna bride, along with outfits for the groom and the family.",
+      "body": [
+        "Revital's henna styling blends Moroccan tradition with touches of luxury: gold embroidery, stones, rich fabrics and a crown for the bride.",
+        "Rent the outfits for the night, or combine them with a full henna production."
+      ],
+      "cta": "Book a fitting"
+    },
+    "production": {
+      "eyebrow": "Henna parties",
+      "title": "Luxury henna party production",
+      "lead": "A complete Moroccan henna night with personal attention and love for tradition: décor, outfits, handmade cookies and a spice market.",
+      "body": [
+        "Revital builds the night around your concept: from the styled entrance to the talamon, from the henna bowl table to the Moroccan cookies.",
+        "Every production is priced personally. Send your date, venue and number of guests, and Revital will come back with a proposal."
+      ],
+      "cta": "Check your date"
+    }
+  },
+  "footer": {
+    "tagline": "Henna productions and bridal gowns",
+    "nav": "Navigate",
+    "follow": "On Instagram",
+    "legal": "Legal & privacy",
+    "rights": "All rights reserved",
+    "photos": "All photos on this site come from Revital Nznz's Instagram."
+  },
+  "legal": {
+    "title": "Legal & privacy",
+    "sections": [
+      {
+        "h": "This site",
+        "p": "This site presents the work and services of Revital Nznz – bridal, evening and henna dress design and henna party production. Contact: +972 52-250-8310."
+      },
+      {
+        "h": "Privacy",
+        "p": "The forms on this site store nothing. The details you enter go into a WhatsApp message that you send to Revital yourself. The site uses no advertising cookies."
+      },
+      {
+        "h": "Images",
+        "p": "Photos and videos belong to Revital Nznz and the photographers she worked with. Please do not copy them without permission."
+      },
+      {
+        "h": "Prices and availability",
+        "p": "Prices, availability and rental terms are given at your appointment and confirmed in writing. Photos show past work and do not guarantee that a specific dress is available."
+      }
+    ]
+  },
+  "alt": {
+    "kalat-hina": "Henna bride in a white gown with a train, in front of red curtains",
+    "revital": "Revital Nznz in a champagne gown with a cape, on a henna set",
+    "kala-tachra": "Made-to-measure white lace bridal gown",
+    "kala-katef": "White one-shoulder bridal gown",
+    "kala-tul": "Bridal gown with a full tulle skirt",
+    "kala-atelier": "Handwork on a bridal gown in the studio",
+    "erev-zahav": "Gold lace evening dress",
+    "erev-kachol": "Blue lace evening dress with bell sleeves",
+    "erev-shampanya": "Champagne evening dress with a V neckline",
+    "erev-glima": "Gold evening dress with a cape",
+    "erev-yarok": "Green satin evening dress with an embroidered belt",
+    "erev-kesef": "Sparkling silver evening dress",
+    "erev-katsar": "Short sequinned evening dress",
+    "erev-varod": "Fitted pink evening dress with embroidery",
+    "erev-sagol": "Purple evening dress with a split and gold belt",
+    "erev-shachor": "Sheer black evening dress",
+    "erev-lavan": "White corset evening dress with a split",
+    "hina-kaftan": "White henna kaftan with gold embroidery",
+    "hina-glima": "Henna dress with a cape",
+    "hina-zahav": "Golden Moroccan-inspired henna outfit",
+    "hina-adom": "Henna bride in a red gown",
+    "hina-kesef": "Henna bride in a silver gown with a sparkling headpiece",
+    "hina-zug": "Bride and groom in Moroccan henna outfits",
+    "tafura-bama": "Henna stage with gold arches and a talamon",
+    "tafura-adom": "Henna set with red curtains",
+    "tafura-shuk": "Nut and spice market on a henna set",
+    "tafura-kise": "White and gold talamon for the bride and groom",
+    "tafura-knisa": "Styled entrance to a henna night",
+    "tafura-kaara": "Styled henna bowl table",
+    "tafura-ugiot": "Tray of handmade Moroccan cookies",
+    "tafura-kirkara": "Decorated carriage for the bride's entrance",
+    "tafura-gamal": "Decorated camel on a henna set",
+    "decor-henne": "Walk through a henna set",
+    "danseuse-feu": "Fire dancer at a henna night",
+    "mariee-caftan": "Bride dancing in a white kaftan",
+    "entree-couple": "The couple's entrance to their henna night"
+  }
+}

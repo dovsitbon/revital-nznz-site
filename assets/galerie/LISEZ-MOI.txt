@@ -1,0 +1,2 @@
+Emplacement pour les photos et vidéos que Revital enverra (haute définition).
+Les classer ensuite dans hero/, robes-mariee/, robes-soiree/, robes-henne/ ou soirees-henne/, les ajouter à PICKS dans scripts/media.mjs, puis lancer : npm run media

@@ -1,0 +1,4 @@
+{
+  "_note": "À REMPLIR avec de vrais avis de clientes (messages WhatsApp, légendes publiées par Revital), avec leur accord : prénom seulement. Format : { \"name\": \"…\", \"event\": \"henne|mariee|soiree\", \"date\": \"AAAA-MM\", \"text\": { \"he\": \"…\", \"en\": \"…\", \"fr\": \"…\", \"es\": \"…\" } }. Tant que la liste est vide, le site affiche des emplacements discrets. Aucun avis n'est inventé.",
+  "reviews": []
+}

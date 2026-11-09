@@ -1,0 +1,43 @@
+{
+  "_note": "Collection. category : mariee | soiree | henne. mode : custom (création sur mesure), rental (location), sale (achat), rental-sale (location ou achat) — à CONFIRMER avec Revital (d'après ses légendes : robes de soirée « à louer / à vendre », robes de mariée « cousues sur mesure à la demande de la cliente », djellabas et caftans « à louer »). priceFrom : prix « à partir de » en ILS, ou null (= « prix au rendez-vous »). showPrices = false : aucun prix n'est affiché tant qu'elle ne le souhaite pas. Le nom affiché vient du texte alternatif de l'image (locales/*.json → alt) ; ref = référence libre.",
+  "updated": "2026-11-09",
+  "showPrices": false,
+  "items": [
+    { "ref": "M-01", "category": "mariee", "image": "/media/robes-mariee/kala-tachra-01.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-02", "category": "mariee", "image": "/media/robes-mariee/kala-katef-01.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-03", "category": "mariee", "image": "/media/robes-mariee/kala-tul-01.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-04", "category": "mariee", "image": "/media/robes-mariee/kala-tachra-02.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-05", "category": "mariee", "image": "/media/robes-mariee/kala-tul-03.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-06", "category": "mariee", "image": "/media/robes-mariee/kala-tachra-03.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-07", "category": "mariee", "image": "/media/robes-mariee/kala-katef-02.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "M-08", "category": "mariee", "image": "/media/robes-mariee/kala-tul-02.jpg", "mode": "custom", "priceFrom": null },
+
+    { "ref": "E-01", "category": "soiree", "image": "/media/robes-soiree/erev-zahav-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-02", "category": "soiree", "image": "/media/robes-soiree/erev-kachol-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-03", "category": "soiree", "image": "/media/robes-soiree/erev-shampanya-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-04", "category": "soiree", "image": "/media/robes-soiree/erev-glima-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-05", "category": "soiree", "image": "/media/robes-soiree/erev-yarok-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-06", "category": "soiree", "image": "/media/robes-soiree/erev-varod-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-07", "category": "soiree", "image": "/media/robes-soiree/erev-kesef-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-08", "category": "soiree", "image": "/media/robes-soiree/erev-sagol-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-09", "category": "soiree", "image": "/media/robes-soiree/erev-zahav-03.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-10", "category": "soiree", "image": "/media/robes-soiree/erev-kesef-02.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-11", "category": "soiree", "image": "/media/robes-soiree/erev-shachor-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-12", "category": "soiree", "image": "/media/robes-soiree/erev-zahav-05.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-13", "category": "soiree", "image": "/media/robes-soiree/erev-katsar-01.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-14", "category": "soiree", "image": "/media/robes-soiree/erev-kesef-03.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-15", "category": "soiree", "image": "/media/robes-soiree/erev-zahav-02.jpg", "mode": "rental-sale", "priceFrom": null },
+    { "ref": "E-16", "category": "soiree", "image": "/media/robes-soiree/erev-shampanya-02.jpg", "mode": "rental-sale", "priceFrom": null },
+
+    { "ref": "H-01", "category": "henne", "image": "/media/robes-henne/hina-kaftan-01.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-02", "category": "henne", "image": "/media/robes-henne/hina-glima-01.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-03", "category": "henne", "image": "/media/robes-henne/hina-zahav-01.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-04", "category": "henne", "image": "/media/robes-henne/hina-glima-02.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-05", "category": "henne", "image": "/media/robes-henne/hina-adom-01.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "H-06", "category": "henne", "image": "/media/robes-henne/hina-glima-03.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-07", "category": "henne", "image": "/media/robes-henne/hina-kesef-01.jpg", "mode": "custom", "priceFrom": null },
+    { "ref": "H-08", "category": "henne", "image": "/media/robes-henne/hina-zug-01.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-09", "category": "henne", "image": "/media/robes-henne/hina-zahav-02.jpg", "mode": "rental", "priceFrom": null },
+    { "ref": "H-10", "category": "henne", "image": "/media/robes-henne/hina-zug-02.jpg", "mode": "rental", "priceFrom": null }
+  ]
+}

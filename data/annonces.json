@@ -1,0 +1,15 @@
+{
+  "_note": "Bandeau d'infos pratiques en haut du site (refermable). On affiche la première annonce dont active = true et dont until (AAAA-MM-JJ) n'est pas dépassé. Remplacer le texte à chaque nouvelle collection ou changement d'horaires (changer aussi l'id pour qu'il réapparaisse chez celles qui l'avaient fermé).",
+  "updated": "2026-11-09",
+  "items": [
+    {
+      "id": "rdv-2026-11",
+      "active": true,
+      "until": null,
+      "he": "מדידות בשואורום בתיאום מראש בלבד · אפשר להשאיר הודעה בוואטסאפ",
+      "en": "Showroom fittings by appointment only · you can leave a message on WhatsApp",
+      "fr": "Essayages au showroom sur rendez-vous uniquement · vous pouvez laisser un message sur WhatsApp",
+      "es": "Pruebas en el showroom solo con cita previa · puedes dejar un mensaje por WhatsApp"
+    }
+  ]
+}
